@@ -1,0 +1,556 @@
+
+[Log Startup at 10:46:18]
+2021-03-19 10:46:18.096 (Info) Server.StartService - SILSocketServer, Ver=1.0.0 Build 0
+2021-03-19 10:46:18.205 (Info) Server.StartService - Starting ClientServices...
+2021-03-19 10:46:18.402 (Info) ClientService.Initialize - Client service pool created for 50 threads.
+2021-03-19 10:46:18.812 (Info) ClientService.Start - Client threads on server: 50.
+2021-03-19 10:46:18.912 (Info) Server.StartService - Create new listener on server...
+2021-03-19 10:46:19.012 (Info) Server.StartService.ThreadStart - Starting listener thread...
+2021-03-19 10:46:19.112 (Info) Server.StartService.ListenerThread - Listener Thread Started successfully on port 5150.
+2021-03-19 10:46:19.212 (Info) Server.Listener.Start - Starting listener...
+2021-03-19 10:46:19.312 (Info) Server.Listener - Server started on port 5150
+
+[Log Startup at 12:36:43]
+2021-03-19 12:36:43.028 (Info) Server.StartService - SILSocketServer, Ver=1.0.0 Build 0
+2021-03-19 12:36:43.278 (Info) Server.StartService - Starting ClientServices...
+2021-03-19 12:36:43.378 (Info) ClientService.Initialize - Client service pool created for 50 threads.
+2021-03-19 12:36:43.478 (Info) ClientService.Start - Client threads on server: 50.
+2021-03-19 12:36:43.578 (Info) Server.StartService - Create new listener on server...
+2021-03-19 12:36:43.678 (Info) Server.StartService.ThreadStart - Starting listener thread...
+2021-03-19 12:36:43.778 (Info) Server.StartService.ListenerThread - Listener Thread Started successfully on port 5150.
+2021-03-19 12:36:43.878 (Info) Server.Listener.Start - Starting listener...
+2021-03-19 12:36:43.978 (Info) Server.Listener - Server started on port 5150
+2021-03-19 13:02:27.992 (Info) Server.StopService - Stopping client services...
+2021-03-19 13:02:28.093 (Info) ClientService.Stop - Stopping thread service...
+2021-03-19 13:02:28.193 (Info) ClientService.Stop - Thread pool stopped.
+2021-03-19 13:02:28.293 (Info) ClientService.Stop - Stop client connections 0 active connections.
+2021-03-19 13:02:28.393 (Info) Server.ClientTask.Stop - Completed successfully.
+2021-03-19 13:02:28.493 (Info) Server.StopService.Listener.Stop - Initiating listener stop....
+2021-03-19 13:02:28.593 (Info) Server.StopService.Listener.Stop -  successfull.
+2021-03-19 13:02:28.693 (Info) Server.ListenerThread.Join - Completed.
+2021-03-19 13:02:28.793 (Info) Server.StopService - Uptime: 0 days 0 hours 25 minutes 45 seconds.
+2021-03-19 13:02:28.893 (Info) EventServer.StopService - Sending Signal to Stop Event Service
+
+[Log Startup at 13:48:36]
+2021-03-19 13:48:36.516 (Info) Server.StopService - Stopping client services...
+2021-03-19 13:48:36.996 (Info) ClientService.Stop - Stopping thread service...
+2021-03-19 13:48:37.096 (Info) ClientService.Stop - Thread pool stopped.
+2021-03-19 13:48:37.196 (Info) ClientService.Stop - Stop client connections 1 active connections.
+2021-03-19 13:48:37.296 (Info) ClientHandler.Close - Duration: 00:27:28.1398317
+2021-03-19 13:48:37.396 (Info) ClientHandler.Close - Closing Connection to Client 192.168.43.202
+2021-03-19 13:48:37.496 (Info) ClientHandler.Close - Connection Closed.
+2021-03-19 13:48:37.596 (Info) Server.ClientTask.Stop - Completed successfully.
+2021-03-19 13:48:37.696 (Info) Server.StopService.Listener.Stop - Initiating listener stop....
+2021-03-19 13:48:37.796 (Info) Server.StopService.Listener.Stop -  successfull.
+2021-03-19 13:48:37.896 (Info) Server.ListenerThread.Join - Completed.
+2021-03-19 13:48:37.996 (Info) Server.StopService - Uptime: 0 days 0 hours 46 minutes 6 seconds.
+2021-03-19 13:48:38.096 (Info) EventServer.StopService - Sending Signal to Stop Event Service
+
+[Log Startup at 14:39:10]
+2021-03-19 14:39:10.110 (Info) Server.Listener - New client connection detected...
+2021-03-19 14:39:11.252 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 14:39:11.481 (Info) ClientHandler.Initialize - Connected client : 192.168.43.202
+2021-03-19 14:39:11.879 (Data) ClientHandler.ProcessData - IP=192.168.43.202 Mesg=TIME~
+2021-03-19 14:39:15.797 (Data) ClientHandler.ProcessData - IP=192.168.43.202 Resp=VALID~14:39:13
+2021-03-19 14:40:08.186 (Info) Server.Listener - New client connection detected...
+2021-03-19 14:40:08.286 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 14:40:08.387 (Info) ClientHandler.Initialize - Connected client : 192.168.43.202
+2021-03-19 14:40:08.488 (Data) ClientHandler.ProcessData - IP=192.168.43.202 Mesg=TIME~
+2021-03-19 14:40:08.588 (Data) ClientHandler.ProcessData - IP=192.168.43.202 Resp=VALID~14:40:08
+
+[Log Startup at 14:49:58]
+2021-03-19 14:49:58.715 (Info) Server.StartService - SILSocketServer, Ver=1.0.0 Build 0
+2021-03-19 14:49:58.836 (Info) Server.StartService - Starting ClientServices...
+2021-03-19 14:49:58.936 (Info) ClientService.Initialize - Client service pool created for 50 threads.
+
+[Log Startup at 14:51:27]
+2021-03-19 14:51:27.244 (Info) Server.StartService - SILSocketServer, Ver=1.0.0 Build 0
+2021-03-19 14:51:27.345 (Info) Server.StartService - Starting ClientServices...
+2021-03-19 14:51:27.445 (Info) ClientService.Initialize - Client service pool created for 50 threads.
+2021-03-19 14:51:27.745 (Info) ClientService.Start - Client threads on server: 50.
+2021-03-19 14:51:27.845 (Info) Server.StartService - Create new listener on server...
+2021-03-19 14:51:27.945 (Info) Server.StartService.ThreadStart - Starting listener thread...
+2021-03-19 14:51:28.045 (Info) Server.StartService.ListenerThread - Listener Thread Started successfully on port 5150.
+2021-03-19 14:51:28.145 (Info) Server.Listener.Start - Starting listener...
+2021-03-19 14:51:28.245 (Info) Server.Listener - Server started on port 5150
+2021-03-19 15:49:09.049 (Info) Server.Listener - New client connection detected...
+2021-03-19 15:49:09.457 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 15:49:09.557 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 15:49:09.657 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 15:49:12.060 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~15:49:11
+2021-03-19 15:56:01.060 (Info) Server.Listener - New client connection detected...
+2021-03-19 15:56:01.160 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 15:56:01.260 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 15:56:01.360 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 15:56:01.460 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~15:56:01
+2021-03-19 15:56:08.264 (Info) Server.Listener - New client connection detected...
+2021-03-19 15:56:08.364 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 15:56:08.464 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 15:56:08.564 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SCAN~19012117123908A001~001~082
+2021-03-19 15:56:08.664 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~SAVED
+2021-03-19 15:56:19.069 (Info) Server.Listener - New client connection detected...
+2021-03-19 15:56:19.169 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 15:56:19.269 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 15:56:19.369 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SELECT~
+2021-03-19 15:56:19.469 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~19012117123908A001$20210319$155608$001$082$20210319155608$ADMIN$19-03-2021 15:56:08
+2021-03-19 15:56:27.676 (Info) Server.Listener - New client connection detected...
+2021-03-19 15:56:27.776 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 15:56:27.876 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 15:56:27.976 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 15:56:28.076 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~15:56:27
+2021-03-19 15:56:45.091 (Info) Server.Listener - New client connection detected...
+2021-03-19 15:56:45.191 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 15:56:45.291 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 15:56:45.391 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 15:56:45.491 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~15:56:45
+2021-03-19 15:58:55.034 (Info) Server.Listener - New client connection detected...
+2021-03-19 15:58:55.134 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 15:58:55.234 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 15:58:55.334 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 15:58:55.434 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~15:58:54
+2021-03-19 15:58:59.437 (Info) Server.Listener - New client connection detected...
+2021-03-19 15:58:59.537 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 15:58:59.637 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 15:58:59.737 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SCAN~19012117125908A002~001~082
+2021-03-19 15:58:59.837 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~SAVED
+2021-03-19 15:59:01.665 (Info) Server.Listener - New client connection detected...
+2021-03-19 15:59:01.765 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 15:59:01.865 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 15:59:01.965 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SELECT~
+2021-03-19 15:59:02.065 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~19012117123908A001$20210319$155608$001$082$20210319155608$ADMIN$19-03-2021 15:56:08#19012117125908A002$20210319$155859$001$082$20210319155859$ADMIN$19-03-2021 15:58:59
+2021-03-19 15:59:03.968 (Info) Server.Listener - New client connection detected...
+2021-03-19 15:59:04.068 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 15:59:04.168 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 15:59:04.268 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 15:59:04.368 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~15:59:03
+2021-03-19 15:59:04.468 (Info) Server.Listener - New client connection detected...
+2021-03-19 15:59:04.568 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 15:59:04.668 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 15:59:04.768 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 15:59:04.869 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~15:59:04
+2021-03-19 16:00:05.910 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:00:06.010 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:00:06.110 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:00:06.210 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:00:06.310 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:00
+2021-03-19 16:00:08.135 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:00:08.239 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:00:08.340 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:00:08.440 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SCAN~19012117161708A004~001~082
+2021-03-19 16:00:08.540 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~SAVED
+2021-03-19 16:00:09.951 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:00:10.051 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:00:10.151 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:00:10.252 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SELECT~
+2021-03-19 16:00:10.352 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~19012117123908A001$20210319$155608$001$082$20210319155608$ADMIN$19-03-2021 15:56:08#19012117125908A002$20210319$155859$001$082$20210319155859$ADMIN$19-03-2021 15:58:59#19012117161708A004$20210319$160008$001$082$20210319160008$ADMIN$19-03-2021 16:00:08
+2021-03-19 16:00:10.452 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:00:10.552 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:00:10.652 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:00:10.752 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:00:10.852 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:00
+2021-03-19 16:00:10.952 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:00:11.053 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:00:11.153 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:00:11.253 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:00:11.353 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:00
+2021-03-19 16:01:37.314 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:01:37.431 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:01:37.531 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:01:37.631 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:01:37.731 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:01
+2021-03-19 16:01:37.831 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:01:37.931 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:01:38.031 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:01:38.131 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SCAN~19012117123908A001~001~082
+2021-03-19 16:01:38.231 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=INVALID~This Barcode Already Scanned!!
+2021-03-19 16:01:38.331 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:01:38.431 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:01:38.531 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:01:38.631 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:01:38.731 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:01
+2021-03-19 16:01:41.963 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:01:42.063 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:01:42.163 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:01:42.263 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:01:42.363 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:01
+2021-03-19 16:01:42.463 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:01:42.563 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:01:42.663 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:01:42.763 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SCAN~19012117123908A001~001~082
+2021-03-19 16:01:42.863 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=INVALID~This Barcode Already Scanned!!
+2021-03-19 16:01:42.963 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:01:43.064 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:01:43.164 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:01:43.264 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:01:43.364 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:01
+2021-03-19 16:01:46.968 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:01:47.068 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:01:47.168 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:01:47.268 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:01:47.368 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:01
+2021-03-19 16:01:47.468 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:01:47.568 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:01:47.672 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:01:47.773 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SCAN~19012117125908A002~001~082
+2021-03-19 16:01:47.873 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=INVALID~This Barcode Already Scanned!!
+2021-03-19 16:01:47.973 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:01:48.073 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:01:48.173 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:01:48.273 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:01:48.376 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:01
+2021-03-19 16:01:50.590 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:01:50.690 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:01:50.790 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:01:50.890 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:01:50.990 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:01
+2021-03-19 16:01:51.091 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:01:51.191 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:01:51.291 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:01:51.392 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SCAN~19012117135702Y416~001~082
+2021-03-19 16:01:51.492 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~SAVED
+2021-03-19 16:01:51.592 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:01:51.692 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:01:51.793 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:01:51.893 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SELECT~
+2021-03-19 16:01:51.993 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~19012117123908A001$20210319$155608$001$082$20210319155608$ADMIN$19-03-2021 15:56:08#19012117125908A002$20210319$155859$001$082$20210319155859$ADMIN$19-03-2021 15:58:59#19012117135702Y416$20210319$160150$001$082$20210319160150$ADMIN$19-03-2021 16:01:50#19012117161708A004$20210319$160008$001$082$20210319160008$ADMIN$19-03-2021 16:00:08
+2021-03-19 16:01:52.093 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:01:52.193 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:01:52.293 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:01:52.393 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:01:52.493 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:01
+2021-03-19 16:01:52.593 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:01:52.693 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:01:52.793 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:01:52.893 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:01:52.993 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:01
+2021-03-19 16:02:12.389 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:02:12.489 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:02:12.589 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:02:12.690 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:02:12.790 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:02
+2021-03-19 16:02:12.891 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:02:12.991 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:02:13.091 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:02:13.191 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SCAN~19012117141102Y611~001~082
+2021-03-19 16:02:13.291 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~SAVED
+2021-03-19 16:02:13.391 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:02:13.491 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:02:13.591 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:02:13.703 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SELECT~
+2021-03-19 16:02:13.803 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~19012117123908A001$20210319$155608$001$082$20210319155608$ADMIN$19-03-2021 15:56:08#19012117125908A002$20210319$155859$001$082$20210319155859$ADMIN$19-03-2021 15:58:59#19012117135702Y416$20210319$160150$001$082$20210319160150$ADMIN$19-03-2021 16:01:50#19012117141102Y611$20210319$160212$001$082$20210319160212$ADMIN$19-03-2021 16:02:12#19012117161708A004$20210319$160008$001$082$20210319160008$ADMIN$19-03-2021 16:00:08
+2021-03-19 16:02:13.903 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:02:14.003 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:02:14.103 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:02:14.203 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:02:14.303 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:02
+2021-03-19 16:02:14.403 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:02:14.503 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:02:14.603 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:02:14.703 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:02:14.803 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:02
+2021-03-19 16:02:16.203 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:02:16.303 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:02:16.403 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:02:16.503 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:02:16.603 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:02
+2021-03-19 16:02:16.703 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:02:16.803 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:02:16.903 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:02:17.003 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SCAN~19012117155908A003~001~082
+2021-03-19 16:02:17.103 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~SAVED
+2021-03-19 16:02:17.203 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:02:17.303 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:02:17.403 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:02:17.507 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SELECT~
+2021-03-19 16:02:17.607 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~19012117123908A001$20210319$155608$001$082$20210319155608$ADMIN$19-03-2021 15:56:08#19012117125908A002$20210319$155859$001$082$20210319155859$ADMIN$19-03-2021 15:58:59#19012117135702Y416$20210319$160150$001$082$20210319160150$ADMIN$19-03-2021 16:01:50#19012117141102Y611$20210319$160212$001$082$20210319160212$ADMIN$19-03-2021 16:02:12#19012117155908A003$20210319$160216$001$082$20210319160216$ADMIN$19-03-2021 16:02:16#19012117161708A004$20210319$160008$001$082$20210319160008$ADMIN$19-03-2021 16:00:08
+2021-03-19 16:02:17.709 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:02:17.809 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:02:17.911 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:02:18.011 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:02:18.111 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:02
+2021-03-19 16:02:18.211 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:02:18.313 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:02:18.413 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:02:18.513 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:02:18.613 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:02
+2021-03-19 16:02:19.215 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:02:19.315 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:02:19.415 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:02:19.515 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:02:19.615 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:02
+2021-03-19 16:02:19.715 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:02:19.815 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:02:19.915 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:02:20.015 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SCAN~19012117161708A004~001~082
+2021-03-19 16:02:20.115 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=INVALID~This Barcode Already Scanned!!
+2021-03-19 16:02:20.215 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:02:20.316 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:02:20.416 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:02:20.516 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:02:20.616 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:02
+2021-03-19 16:06:10.363 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:06:10.463 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:06:10.563 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:06:10.663 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:06:10.763 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:06
+2021-03-19 16:06:10.863 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:06:10.963 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:06:11.064 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:06:11.164 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SCAN~19012117155908A003~001~082
+2021-03-19 16:06:11.264 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~SAVED
+2021-03-19 16:06:11.364 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:06:11.464 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:06:11.565 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:06:11.665 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SELECT~
+2021-03-19 16:06:11.765 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~19012117155908A003$20210319$1606$001$082$202103191606$ADMIN$19-03-2021 16:06:10
+2021-03-19 16:06:11.865 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:06:11.965 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:06:12.065 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:06:12.165 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:06:12.266 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:06
+2021-03-19 16:06:12.366 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:06:12.466 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:06:12.566 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:06:12.666 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:06:12.766 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:06
+2021-03-19 16:06:20.967 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:06:21.068 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:06:21.168 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:06:21.268 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:06:21.368 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:06
+2021-03-19 16:06:21.468 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:06:21.568 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:06:21.668 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:06:21.768 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SCAN~19012117161708A004~001~082
+2021-03-19 16:06:21.868 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~SAVED
+2021-03-19 16:06:21.968 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:06:22.068 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:06:22.168 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:06:22.269 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SELECT~
+2021-03-19 16:06:22.369 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~19012117155908A003$20210319$1606$001$082$202103191606$ADMIN$19-03-2021 16:06:10#19012117161708A004$20210319$1606$001$082$202103191606$ADMIN$19-03-2021 16:06:21
+2021-03-19 16:06:22.469 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:06:22.569 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:06:22.669 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:06:22.769 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:06:22.869 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:06
+2021-03-19 16:06:22.969 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:06:23.069 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:06:23.169 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:06:23.269 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:06:23.369 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:06
+2021-03-19 16:06:23.469 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:06:23.569 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:06:23.669 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:06:23.769 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:06:23.869 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:06
+2021-03-19 16:06:23.969 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:06:24.069 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:06:24.169 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:06:24.269 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SCAN~19012117155908A003~001~082
+2021-03-19 16:06:24.369 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=INVALID~This Barcode Already Scanned!!
+2021-03-19 16:06:24.469 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:06:24.569 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:06:24.669 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:06:24.769 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:06:24.869 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:06
+2021-03-19 16:06:28.170 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:06:28.270 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:06:28.370 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:06:28.470 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:06:28.570 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:06
+2021-03-19 16:06:28.670 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:06:28.770 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:06:28.870 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:06:28.970 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SCAN~19012117125908A002~001~082
+2021-03-19 16:06:29.070 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~SAVED
+2021-03-19 16:06:29.170 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:06:29.270 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:06:29.370 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:06:29.473 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SELECT~
+2021-03-19 16:06:29.573 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~19012117125908A002$20210319$1606$001$082$202103191606$ADMIN$19-03-2021 16:06:28#19012117155908A003$20210319$1606$001$082$202103191606$ADMIN$19-03-2021 16:06:10#19012117161708A004$20210319$1606$001$082$202103191606$ADMIN$19-03-2021 16:06:21
+2021-03-19 16:06:29.673 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:06:29.773 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:06:29.873 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:06:29.973 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:06:30.073 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:06
+2021-03-19 16:06:30.173 (Info) Server.Listener - New client connection detected...
+2021-03-19 16:06:30.273 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 16:06:30.373 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 16:06:30.473 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 16:06:30.573 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~16:06
+
+[Log Startup at 17:24:19]
+2021-03-19 17:24:19.742 (Info) Server.StartService - SILSocketServer, Ver=1.0.0 Build 0
+2021-03-19 17:24:19.963 (Info) Server.StartService - Starting ClientServices...
+2021-03-19 17:24:20.063 (Info) ClientService.Initialize - Client service pool created for 50 threads.
+2021-03-19 17:24:20.263 (Info) ClientService.Start - Client threads on server: 50.
+2021-03-19 17:24:20.363 (Info) Server.StartService - Create new listener on server...
+2021-03-19 17:24:20.463 (Info) Server.StartService.ThreadStart - Starting listener thread...
+2021-03-19 17:24:20.563 (Info) Server.StartService.ListenerThread - Listener Thread Started successfully on port 5150.
+2021-03-19 17:24:20.663 (Info) Server.Listener.Start - Starting listener...
+2021-03-19 17:24:20.763 (Info) Server.Listener - Server started on port 5150
+2021-03-19 17:24:21.664 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:24:21.764 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:24:21.864 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:24:21.964 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 17:24:24.860 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~17:24
+2021-03-19 17:24:25.060 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:24:25.160 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:24:25.260 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:24:25.360 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SCAN~19012117125908A002~001~082
+2021-03-19 17:24:25.460 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=INVALID~This Barcode Already Scanned!!
+2021-03-19 17:24:25.560 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:24:25.660 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:24:25.760 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:24:25.860 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SELECT~
+2021-03-19 17:24:25.960 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~19012117125908A002$20210319$1606$001$082$202103191606$ADMIN$19-03-2021 16:06:28#19012117155908A003$20210319$1606$001$082$202103191606$ADMIN$19-03-2021 16:06:10#19012117161708A004$20210319$1606$001$082$202103191606$ADMIN$19-03-2021 16:06:21
+2021-03-19 17:24:26.060 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:24:26.160 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:24:26.260 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:24:26.360 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 17:24:26.460 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~17:24
+2021-03-19 17:24:29.163 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:24:29.263 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:24:29.363 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:24:29.463 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 17:24:29.564 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~17:24
+2021-03-19 17:24:29.664 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:24:29.764 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:24:29.864 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:24:29.963 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SCAN~19012117155908A003~001~082
+2021-03-19 17:24:30.063 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=INVALID~This Barcode Already Scanned!!
+2021-03-19 17:24:30.163 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:24:30.263 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:24:30.363 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:24:30.463 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SELECT~
+2021-03-19 17:24:30.563 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~19012117125908A002$20210319$1606$001$082$202103191606$ADMIN$19-03-2021 16:06:28#19012117155908A003$20210319$1606$001$082$202103191606$ADMIN$19-03-2021 16:06:10#19012117161708A004$20210319$1606$001$082$202103191606$ADMIN$19-03-2021 16:06:21
+2021-03-19 17:24:30.663 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:24:30.763 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:24:30.863 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:24:30.963 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 17:24:31.063 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~17:24
+2021-03-19 17:24:32.363 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:24:32.463 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:24:32.563 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:24:32.663 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 17:24:32.763 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~17:24
+2021-03-19 17:24:32.863 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:24:32.963 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:24:33.063 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:24:33.163 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SCAN~19012117161708A004~001~082
+2021-03-19 17:24:33.263 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=INVALID~This Barcode Already Scanned!!
+2021-03-19 17:24:33.363 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:24:33.463 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:24:33.563 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:24:33.663 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SELECT~
+2021-03-19 17:24:33.764 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~19012117125908A002$20210319$1606$001$082$202103191606$ADMIN$19-03-2021 16:06:28#19012117155908A003$20210319$1606$001$082$202103191606$ADMIN$19-03-2021 16:06:10#19012117161708A004$20210319$1606$001$082$202103191606$ADMIN$19-03-2021 16:06:21
+2021-03-19 17:24:33.864 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:24:33.964 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:24:34.064 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:24:34.164 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 17:24:34.264 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~17:24
+2021-03-19 17:24:36.265 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:24:36.365 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:24:36.465 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:24:36.565 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 17:24:36.665 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~17:24
+2021-03-19 17:24:36.765 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:24:36.865 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:24:36.965 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:24:37.065 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SCAN~19012117125908A002~001~082
+2021-03-19 17:24:37.165 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=INVALID~This Barcode Already Scanned!!
+2021-03-19 17:24:37.265 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:24:37.365 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:24:37.465 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:24:37.565 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SELECT~
+2021-03-19 17:24:37.665 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~19012117125908A002$20210319$1606$001$082$202103191606$ADMIN$19-03-2021 16:06:28#19012117155908A003$20210319$1606$001$082$202103191606$ADMIN$19-03-2021 16:06:10#19012117161708A004$20210319$1606$001$082$202103191606$ADMIN$19-03-2021 16:06:21
+2021-03-19 17:24:37.765 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:24:37.865 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:24:37.965 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:24:38.065 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 17:24:38.165 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~17:24
+2021-03-19 17:24:39.265 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:24:39.365 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:24:39.465 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:24:39.565 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 17:24:39.665 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~17:24
+2021-03-19 17:24:39.765 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:24:39.865 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:24:39.964 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:24:40.064 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SCAN~19012117125908A002~001~082
+2021-03-19 17:24:40.164 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=INVALID~This Barcode Already Scanned!!
+2021-03-19 17:24:40.264 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:24:40.364 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:24:40.464 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:24:40.564 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SELECT~
+2021-03-19 17:24:40.664 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~19012117125908A002$20210319$1606$001$082$202103191606$ADMIN$19-03-2021 16:06:28#19012117155908A003$20210319$1606$001$082$202103191606$ADMIN$19-03-2021 16:06:10#19012117161708A004$20210319$1606$001$082$202103191606$ADMIN$19-03-2021 16:06:21
+2021-03-19 17:24:40.764 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:24:40.864 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:24:40.964 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:24:41.064 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 17:24:41.164 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~17:24
+2021-03-19 17:24:42.965 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:24:43.065 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:24:43.165 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:24:43.265 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 17:24:43.365 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~17:24
+2021-03-19 17:24:43.465 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:24:43.565 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:24:43.665 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:24:43.765 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SCAN~19012117135702Y416~001~082
+2021-03-19 17:24:43.865 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~SAVED
+2021-03-19 17:24:43.965 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:24:44.065 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:24:44.165 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:24:44.265 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SELECT~
+2021-03-19 17:24:44.365 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~19012117125908A002$20210319$1606$001$082$202103191606$ADMIN$19-03-2021 16:06:28#19012117135702Y416$20210319$1724$001$082$202103191724$ADMIN$19-03-2021 17:24:43#19012117155908A003$20210319$1606$001$082$202103191606$ADMIN$19-03-2021 16:06:10#19012117161708A004$20210319$1606$001$082$202103191606$ADMIN$19-03-2021 16:06:21
+2021-03-19 17:24:44.465 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:24:44.565 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:24:44.665 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:24:44.765 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 17:24:44.865 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~17:24
+2021-03-19 17:24:44.965 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:24:45.065 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:24:45.165 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:24:45.265 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 17:24:45.365 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~17:24
+2021-03-19 17:25:19.074 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:25:19.174 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:25:19.274 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:25:19.374 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 17:25:19.474 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~17:25
+2021-03-19 17:25:19.574 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:25:19.674 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:25:19.774 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:25:19.874 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SCAN~19012117125908A002~001~082
+2021-03-19 17:25:19.973 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=INVALID~This Barcode Already Scanned!!
+2021-03-19 17:25:20.073 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:25:20.173 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:25:20.273 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:25:20.373 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SELECT~
+2021-03-19 17:25:20.473 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~19012117125908A002$20210319$1606$001$082$202103191606$ADMIN$19-03-2021 16:06:28#19012117161708A004$20210319$1606$001$082$202103191606$ADMIN$19-03-2021 16:06:21#19012117155908A003$20210319$1606$001$082$202103191606$ADMIN$19-03-2021 16:06:10#19012117135702Y416$20210319$1724$001$082$202103191724$ADMIN$19-03-2021 17:24:43
+2021-03-19 17:25:20.573 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:25:20.673 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:25:20.773 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:25:20.873 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 17:25:20.973 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~17:25
+2021-03-19 17:25:31.181 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:25:31.281 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:25:31.381 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:25:31.481 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 17:25:31.581 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~17:25
+2021-03-19 17:25:31.681 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:25:31.781 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:25:31.881 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:25:31.981 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SCAN~19012117125908A002~001~082
+2021-03-19 17:25:32.081 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=INVALID~This Barcode Already Scanned!!
+2021-03-19 17:25:32.181 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:25:32.281 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:25:32.381 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:25:32.481 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=SELECT~
+2021-03-19 17:25:32.581 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~19012117135702Y416$20210319$1724$001$082$202103191724$ADMIN$19-03-2021 17:24:43#19012117161708A004$20210319$1606$001$082$202103191606$ADMIN$19-03-2021 16:06:21#19012117155908A003$20210319$1606$001$082$202103191606$ADMIN$19-03-2021 16:06:10#19012117125908A002$20210319$1606$001$082$202103191606$ADMIN$19-03-2021 16:06:28
+2021-03-19 17:25:32.681 (Info) Server.Listener - New client connection detected...
+2021-03-19 17:25:32.781 (Info) ClientHandler.Initialize - Creating new client connection.
+2021-03-19 17:25:32.881 (Info) ClientHandler.Initialize - Connected client : 192.168.43.117
+2021-03-19 17:25:32.981 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Mesg=TIME~
+2021-03-19 17:25:33.081 (Data) ClientHandler.ProcessData - IP=192.168.43.117 Resp=VALID~17:25

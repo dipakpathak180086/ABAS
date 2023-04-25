@@ -1,0 +1,52 @@
+D:\Projects\NTF\LuminousWMSDevice\NTF_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.exe.config
+D:\Projects\NTF\LuminousWMSDevice\NTF_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.exe
+D:\Projects\NTF\LuminousWMSDevice\NTF_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.pdb
+D:\Projects\NTF\LuminousWMSDevice\NTF_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.exe
+D:\Projects\NTF\LuminousWMSDevice\NTF_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.pdb
+D:\Projects\NTF\LuminousWMSDevice\NTF_COM_SERVER\bin\Debug\BCILCommServer.dll
+D:\Projects\NTF\LuminousWMSDevice\NTF_COM_SERVER\bin\Debug\UmsDLL.dll
+D:\Projects\NTF\LuminousWMSDevice\NTF_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.frmServer.resources
+D:\Projects\NTF\LuminousWMSDevice\NTF_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.Properties.Resources.resources
+D:\Projects\NTF\LuminousWMSDevice\NTF_COM_SERVER\obj\Debug\NTF_COM_SERVER.csproj.GenerateResource.Cache
+E:\Projects\Running Projects\NTF\NTFWMSDevice\NTF_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.exe.config
+E:\Projects\Running Projects\NTF\NTFWMSDevice\NTF_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.exe
+E:\Projects\Running Projects\NTF\NTFWMSDevice\NTF_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.pdb
+E:\Projects\Running Projects\NTF\NTFWMSDevice\NTF_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.exe
+E:\Projects\Running Projects\NTF\NTFWMSDevice\NTF_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.pdb
+E:\Projects\Running Projects\NTF\NTFWMSDevice\NTF_COM_SERVER\bin\Debug\BCILCommServer.dll
+E:\Projects\Running Projects\NTF\NTFWMSDevice\NTF_COM_SERVER\bin\Debug\UmsDLL.dll
+E:\Projects\Running Projects\NTF\NTFWMSDevice\NTF_COM_SERVER\obj\Debug\NTF_COM_SERVER.csprojResolveAssemblyReference.cache
+E:\Projects\Running Projects\NTF\NTFWMSDevice\NTF_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.frmServer.resources
+E:\Projects\Running Projects\NTF\NTFWMSDevice\NTF_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.Properties.Resources.resources
+E:\Projects\Running Projects\NTF\NTFWMSDevice\NTF_COM_SERVER\obj\Debug\NTF_COM_SERVER.csproj.GenerateResource.Cache
+D:\Projects\NTF\NTFWMSDevice\NTF_COM_SERVER\bin\Debug\BCILCommServer.dll
+D:\Projects\NTF\NTFWMSDevice\NTF_COM_SERVER\bin\Debug\UmsDLL.dll
+D:\Projects\NTF\NTFWMSDevice\NTF_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.frmServer.resources
+D:\Projects\NTF\NTFWMSDevice\NTF_COM_SERVER\obj\Debug\NTF_COM_SERVER.csproj.GenerateResource.Cache
+D:\Projects\NTF\NTFWMSDevice\NTF_COM_SERVER\bin\Debug\NTF_COM_SERVER.exe.config
+D:\Projects\NTF\NTFWMSDevice\NTF_COM_SERVER\obj\Debug\NTF_COM_SERVER.Properties.Resources.resources
+D:\Projects\NTF\NTFWMSDevice\NTF_COM_SERVER\bin\Debug\NTF_COM_SERVER.exe
+D:\Projects\NTF\NTFWMSDevice\NTF_COM_SERVER\bin\Debug\NTF_COM_SERVER.pdb
+D:\Projects\NTF\NTFWMSDevice\NTF_COM_SERVER\obj\Debug\NTF_COM_SERVER.exe
+D:\Projects\NTF\NTFWMSDevice\NTF_COM_SERVER\obj\Debug\NTF_COM_SERVER.pdb
+D:\NTF\NTF\NTFWMSDevice\NTF_COM_SERVER\bin\Debug\NTF_COM_SERVER.exe.config
+D:\NTF\NTF\NTFWMSDevice\NTF_COM_SERVER\obj\Debug\NTF_COM_SERVER.exe
+D:\NTF\NTF\NTFWMSDevice\NTF_COM_SERVER\obj\Debug\NTF_COM_SERVER.pdb
+D:\NTF\NTF\NTFWMSDevice\NTF_COM_SERVER\bin\Debug\NTF_COM_SERVER.exe
+D:\NTF\NTF\NTFWMSDevice\NTF_COM_SERVER\bin\Debug\NTF_COM_SERVER.pdb
+D:\NTF\NTF\NTFWMSDevice\NTF_COM_SERVER\bin\Debug\BCILCommServer.dll
+D:\NTF\NTF\NTFWMSDevice\NTF_COM_SERVER\bin\Debug\UmsDLL.dll
+D:\NTF\NTF\NTFWMSDevice\NTF_COM_SERVER\obj\Debug\NTF_COM_SERVER.csprojResolveAssemblyReference.cache
+D:\NTF\NTF\NTFWMSDevice\NTF_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.frmServer.resources
+D:\NTF\NTF\NTFWMSDevice\NTF_COM_SERVER\obj\Debug\NTF_COM_SERVER.Properties.Resources.resources
+D:\NTF\NTF\NTFWMSDevice\NTF_COM_SERVER\obj\Debug\NTF_COM_SERVER.csproj.GenerateResource.Cache
+D:\NTF\NTFWMSDevice\NTF_COM_SERVER\bin\Debug\NTF_COM_SERVER.exe.config
+D:\NTF\NTFWMSDevice\NTF_COM_SERVER\obj\Debug\NTF_COM_SERVER.exe
+D:\NTF\NTFWMSDevice\NTF_COM_SERVER\obj\Debug\NTF_COM_SERVER.pdb
+D:\NTF\NTFWMSDevice\NTF_COM_SERVER\bin\Debug\NTF_COM_SERVER.exe
+D:\NTF\NTFWMSDevice\NTF_COM_SERVER\bin\Debug\NTF_COM_SERVER.pdb
+D:\NTF\NTFWMSDevice\NTF_COM_SERVER\bin\Debug\BCILCommServer.dll
+D:\NTF\NTFWMSDevice\NTF_COM_SERVER\bin\Debug\UmsDLL.dll
+D:\NTF\NTFWMSDevice\NTF_COM_SERVER\obj\Debug\NTF_COM_SERVER.Properties.Resources.resources
+D:\NTF\NTFWMSDevice\NTF_COM_SERVER\obj\Debug\NTF_COM_SERVER.csproj.GenerateResource.Cache
+D:\NTF\NTFWMSDevice\NTF_COM_SERVER\obj\Debug\NTF_COM_SERVER.frmServer.resources

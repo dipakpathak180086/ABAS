@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NTF_COM_SERVER.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Site" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">WH</Value>
+    </Setting>
+    <Setting Name="PrinterName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Zebra GC420t - ZPL</Value>
+    </Setting>
+    <Setting Name="PRN" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RECEIVE.PRN</Value>
+    </Setting>
+    <Setting Name="PlantCode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">P1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

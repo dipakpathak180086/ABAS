@@ -1,0 +1,15 @@
+G:\Projects\WMS\WMSDevice\COM_SERVER\bin\Debug\COM_SERVER.exe.config
+G:\Projects\WMS\WMSDevice\COM_SERVER\bin\Debug\COM_SERVER.exe
+G:\Projects\WMS\WMSDevice\COM_SERVER\bin\Debug\COM_SERVER.pdb
+G:\Projects\WMS\WMSDevice\COM_SERVER\bin\Debug\BCILCommServer.dll
+G:\Projects\WMS\WMSDevice\COM_SERVER\bin\Debug\BCILLogger.dll
+G:\Projects\WMS\WMSDevice\COM_SERVER\bin\Debug\UmsDLL.dll
+G:\Projects\WMS\WMSDevice\COM_SERVER\obj\Debug\COM_SERVER.csprojResolveAssemblyReference.cache
+G:\Projects\WMS\WMSDevice\COM_SERVER\obj\Debug\NTF_COM_SERVER.frmServer.resources
+G:\Projects\WMS\WMSDevice\COM_SERVER\obj\Debug\NTF_COM_SERVER.Properties.Resources.resources
+G:\Projects\WMS\WMSDevice\COM_SERVER\obj\Debug\COM_SERVER.csproj.GenerateResource.Cache
+G:\Projects\WMS\WMSDevice\COM_SERVER\obj\Debug\COM_SERVER.exe
+G:\Projects\WMS\WMSDevice\COM_SERVER\obj\Debug\COM_SERVER.pdb
+F:\Mayank\WMS\WMSDevice\COM_SERVER\bin\Debug\COM_SERVER.exe.config
+F:\Mayank\WMS\WMSDevice\COM_SERVER\obj\Debug\COM_SERVER.exe
+F:\Mayank\WMS\WMSDevice\COM_SERVER\obj\Debug\COM_SERVER.pdb

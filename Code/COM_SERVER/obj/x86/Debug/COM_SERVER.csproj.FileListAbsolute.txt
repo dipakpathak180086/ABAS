@@ -1,0 +1,57 @@
+G:\Projects\WMS\WMSDevice\COM_SERVER\bin\x86\Debug\COM_SERVER.exe.config
+G:\Projects\WMS\WMSDevice\COM_SERVER\bin\x86\Debug\COM_SERVER.exe
+G:\Projects\WMS\WMSDevice\COM_SERVER\bin\x86\Debug\COM_SERVER.pdb
+G:\Projects\WMS\WMSDevice\COM_SERVER\bin\x86\Debug\BCILCommServer.dll
+G:\Projects\WMS\WMSDevice\COM_SERVER\bin\x86\Debug\UmsDLL.dll
+G:\Projects\WMS\WMSDevice\COM_SERVER\obj\x86\Debug\NTF_COM_SERVER.frmServer.resources
+G:\Projects\WMS\WMSDevice\COM_SERVER\obj\x86\Debug\NTF_COM_SERVER.Properties.Resources.resources
+G:\Projects\WMS\WMSDevice\COM_SERVER\obj\x86\Debug\COM_SERVER.csproj.GenerateResource.Cache
+G:\Projects\WMS\WMSDevice\COM_SERVER\obj\x86\Debug\COM_SERVER.exe
+G:\Projects\WMS\WMSDevice\COM_SERVER\obj\x86\Debug\COM_SERVER.pdb
+F:\Mayank\WMS\WMSDevice\COM_SERVER\bin\x86\Debug\COM_SERVER.exe.config
+F:\Mayank\WMS\WMSDevice\COM_SERVER\obj\x86\Debug\COM_SERVER.exe
+F:\Mayank\WMS\WMSDevice\COM_SERVER\obj\x86\Debug\COM_SERVER.pdb
+F:\Mayank\WMS\WMSDevice\COM_SERVER\bin\x86\Debug\COM_SERVER.exe
+F:\Mayank\WMS\WMSDevice\COM_SERVER\bin\x86\Debug\COM_SERVER.pdb
+F:\Mayank\WMS\WMSDevice\COM_SERVER\bin\x86\Debug\BCILCommServer.dll
+F:\Mayank\WMS\WMSDevice\COM_SERVER\bin\x86\Debug\UmsDLL.dll
+F:\Mayank\WMS\WMSDevice\COM_SERVER\obj\x86\Debug\COM_SERVER.csprojResolveAssemblyReference.cache
+F:\Mayank\WMS\WMSDevice\COM_SERVER\obj\x86\Debug\NTF_COM_SERVER.frmServer.resources
+F:\Mayank\WMS\WMSDevice\COM_SERVER\obj\x86\Debug\NTF_COM_SERVER.Properties.Resources.resources
+F:\Mayank\WMS\WMSDevice\COM_SERVER\obj\x86\Debug\COM_SERVER.csproj.GenerateResource.Cache
+D:\Amit\Project\WMS\WMSDevice\COM_SERVER\bin\x86\Debug\COM_SERVER.exe.config
+D:\Amit\Project\WMS\WMSDevice\COM_SERVER\bin\x86\Debug\COM_SERVER.exe
+D:\Amit\Project\WMS\WMSDevice\COM_SERVER\bin\x86\Debug\COM_SERVER.pdb
+D:\Amit\Project\WMS\WMSDevice\COM_SERVER\bin\x86\Debug\UmsDLL.dll
+D:\Amit\Project\WMS\WMSDevice\COM_SERVER\obj\x86\Debug\NTF_COM_SERVER.frmServer.resources
+D:\Amit\Project\WMS\WMSDevice\COM_SERVER\obj\x86\Debug\NTF_COM_SERVER.Properties.Resources.resources
+D:\Amit\Project\WMS\WMSDevice\COM_SERVER\obj\x86\Debug\COM_SERVER.csproj.GenerateResource.cache
+D:\Amit\Project\WMS\WMSDevice\COM_SERVER\obj\x86\Debug\COM_SERVER.csproj.CoreCompileInputs.cache
+D:\Amit\Project\WMS\WMSDevice\COM_SERVER\obj\x86\Debug\COM_SERVER.csproj.CopyComplete
+D:\Amit\Project\WMS\WMSDevice\COM_SERVER\obj\x86\Debug\COM_SERVER.exe
+D:\Amit\Project\WMS\WMSDevice\COM_SERVER\obj\x86\Debug\COM_SERVER.pdb
+D:\Amit\Project\WMS\WMSDevice\COM_SERVER\obj\x86\Debug\COM_SERVER.csprojAssemblyReference.cache
+E:\DIPAK\Development\Old Project\WMS\WMSDevice\COM_SERVER\bin\x86\Debug\COM_SERVER.exe.config
+E:\DIPAK\Development\Old Project\WMS\WMSDevice\COM_SERVER\bin\x86\Debug\COM_SERVER.exe
+E:\DIPAK\Development\Old Project\WMS\WMSDevice\COM_SERVER\bin\x86\Debug\COM_SERVER.pdb
+E:\DIPAK\Development\Old Project\WMS\WMSDevice\COM_SERVER\bin\x86\Debug\UmsDLL.dll
+E:\DIPAK\Development\Old Project\WMS\WMSDevice\COM_SERVER\obj\x86\Debug\COM_SERVER.csprojAssemblyReference.cache
+E:\DIPAK\Development\Old Project\WMS\WMSDevice\COM_SERVER\obj\x86\Debug\NTF_COM_SERVER.frmServer.resources
+E:\DIPAK\Development\Old Project\WMS\WMSDevice\COM_SERVER\obj\x86\Debug\NTF_COM_SERVER.Properties.Resources.resources
+E:\DIPAK\Development\Old Project\WMS\WMSDevice\COM_SERVER\obj\x86\Debug\COM_SERVER.csproj.GenerateResource.cache
+E:\DIPAK\Development\Old Project\WMS\WMSDevice\COM_SERVER\obj\x86\Debug\COM_SERVER.csproj.CoreCompileInputs.cache
+E:\DIPAK\Development\Old Project\WMS\WMSDevice\COM_SERVER\obj\x86\Debug\COM_SERVER.csproj.CopyComplete
+E:\DIPAK\Development\Old Project\WMS\WMSDevice\COM_SERVER\obj\x86\Debug\COM_SERVER.exe
+E:\DIPAK\Development\Old Project\WMS\WMSDevice\COM_SERVER\obj\x86\Debug\COM_SERVER.pdb
+E:\DIPAK\Development\New Project\ABAS\Code\COM_SERVER\bin\x86\Debug\COM_SERVER.exe.config
+E:\DIPAK\Development\New Project\ABAS\Code\COM_SERVER\bin\x86\Debug\COM_SERVER.exe
+E:\DIPAK\Development\New Project\ABAS\Code\COM_SERVER\bin\x86\Debug\COM_SERVER.pdb
+E:\DIPAK\Development\New Project\ABAS\Code\COM_SERVER\bin\x86\Debug\UmsDLL.dll
+E:\DIPAK\Development\New Project\ABAS\Code\COM_SERVER\obj\x86\Debug\COM_SERVER.csprojAssemblyReference.cache
+E:\DIPAK\Development\New Project\ABAS\Code\COM_SERVER\obj\x86\Debug\COM_SERVER.frmServer.resources
+E:\DIPAK\Development\New Project\ABAS\Code\COM_SERVER\obj\x86\Debug\COM_SERVER.Properties.Resources.resources
+E:\DIPAK\Development\New Project\ABAS\Code\COM_SERVER\obj\x86\Debug\COM_SERVER.csproj.GenerateResource.cache
+E:\DIPAK\Development\New Project\ABAS\Code\COM_SERVER\obj\x86\Debug\COM_SERVER.csproj.CoreCompileInputs.cache
+E:\DIPAK\Development\New Project\ABAS\Code\COM_SERVER\obj\x86\Debug\COM_SERVER.csproj.CopyComplete
+E:\DIPAK\Development\New Project\ABAS\Code\COM_SERVER\obj\x86\Debug\COM_SERVER.exe
+E:\DIPAK\Development\New Project\ABAS\Code\COM_SERVER\obj\x86\Debug\COM_SERVER.pdb

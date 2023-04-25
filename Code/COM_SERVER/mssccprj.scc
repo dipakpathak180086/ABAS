@@ -1,0 +1,17 @@
+SCC = This is a Source Code Control file
+
+[HELLMANN_COM_SERVER.csproj]
+SCC_Aux_Path = "\\192.168.1.4\vssdb"
+SCC_Project_Name = "$/HELLMANN_WMS/Device/HELLMANN_COM_SERVER.root/HELLMANN_COM_SERVER", ODNGAAAA
+
+[HELLMANN_COM_SERVER.sln]
+SCC_Aux_Path = "\\192.168.1.4\vssdb"
+SCC_Project_Name = "$/HELLMANN_WMS/Device/HELLMANN_COM_SERVER.root/HELLMANN_COM_SERVER", ODNGAAAA
+
+[NTF_COM_SERVER.csproj]
+SCC_Aux_Path = "\\192.168.1.4\vssdb"
+SCC_Project_Name = "$/NTF/NTFWMSDevice/NTF_COM_SERVER/NTF_COM_SERVER", IKUHAAAA
+
+[NTF_COM_SERVER.sln]
+SCC_Aux_Path = "\\192.168.1.4\vssdb"
+SCC_Project_Name = "$/NTF/NTFWMSDevice/NTF_COM_SERVER/NTF_COM_SERVER", IKUHAAAA

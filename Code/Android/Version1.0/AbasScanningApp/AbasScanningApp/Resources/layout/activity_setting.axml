@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_width="fill_parent">
+
+    <EditText
+        android:id="@+id/txtServerIP"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:maxLines="1"
+		android:hint="Server IP"
+        android:singleLine="true"
+        android:imeOptions="actionGo|flagNoFullscreen"
+        android:layout_width="fill_parent" />
+  
+    <EditText
+        android:id="@+id/txtPort"
+       android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:maxLines="1"
+		android:hint="Port"
+        android:singleLine="true"
+		android:inputType="number"
+        android:imeOptions="actionGo|flagNoFullscreen"
+        android:layout_width="fill_parent" />
+
+	 <EditText
+        android:id="@+id/txtGroupNo"
+       android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:maxLines="1"
+		android:hint="Group No"
+        android:singleLine="true"
+		android:inputType="number"
+        android:imeOptions="actionGo|flagNoFullscreen"
+        android:layout_width="fill_parent" />
+
+	 <EditText
+        android:id="@+id/txtDeviceNo"
+       android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:maxLines="1"
+		android:hint="Device"
+        android:singleLine="true"
+		android:inputType="number"
+        android:imeOptions="actionGo|flagNoFullscreen"
+        android:layout_width="fill_parent" />
+	
+    <Button
+		android:theme="@style/MyButton"
+				android:textColor="@color/white"
+        android:layout_marginTop="30dp"
+        android:text="Save"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnSave" />
+    <Button
+		android:theme="@style/MyButton"
+				android:textColor="@color/white"
+        android:text="Back"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnBack" />
+</LinearLayout>

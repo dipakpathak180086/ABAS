@@ -1,0 +1,99 @@
+E:\Projects\HELLMANN_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.exe.config
+E:\Projects\HELLMANN_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.exe
+E:\Projects\HELLMANN_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.pdb
+E:\Projects\HELLMANN_COM_SERVER\bin\Debug\BCILCommServer.dll
+E:\Projects\HELLMANN_COM_SERVER\bin\Debug\UmsDLL.dll
+E:\Projects\HELLMANN_COM_SERVER\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\HELLMANN_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.frmServer.resources
+E:\Projects\HELLMANN_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.Properties.Resources.resources
+E:\Projects\HELLMANN_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.csproj.GenerateResource.Cache
+E:\Projects\HELLMANN_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.exe
+E:\Projects\HELLMANN_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.pdb
+E:\Projects\LUMINOUS_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.exe.config
+E:\Projects\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.exe
+E:\Projects\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.pdb
+E:\Projects\LUMINOUS_COM_SERVER\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.frmServer.resources
+E:\Projects\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.Properties.Resources.resources
+E:\Projects\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.csproj.GenerateResource.Cache
+E:\Projects\LUMINOUS_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.exe
+E:\Projects\LUMINOUS_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.pdb
+E:\Projects\LUMINOUS_COM_SERVER\bin\Debug\BCILCommServer.dll
+E:\Projects\LUMINOUS_COM_SERVER\bin\Debug\UmsDLL.dll
+E:\Projects\Luminous\Luminous_WMS\Device\LUMINOUS_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.exe.config
+E:\Projects\Luminous\Luminous_WMS\Device\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.exe
+E:\Projects\Luminous\Luminous_WMS\Device\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.pdb
+E:\Projects\Luminous\Luminous_WMS\Device\LUMINOUS_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.exe
+E:\Projects\Luminous\Luminous_WMS\Device\LUMINOUS_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.pdb
+E:\Projects\Luminous\Luminous_WMS\Device\LUMINOUS_COM_SERVER\bin\Debug\BCILCommServer.dll
+E:\Projects\Luminous\Luminous_WMS\Device\LUMINOUS_COM_SERVER\bin\Debug\UmsDLL.dll
+E:\Projects\Luminous\Luminous_WMS\Device\LUMINOUS_COM_SERVER\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Luminous\Luminous_WMS\Device\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.frmServer.resources
+E:\Projects\Luminous\Luminous_WMS\Device\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.Properties.Resources.resources
+E:\Projects\Luminous\Luminous_WMS\Device\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.csproj.GenerateResource.Cache
+D:\Projects\LuminousWMS\Device\LUMINOUS_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.exe.config
+D:\Projects\LuminousWMS\Device\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.exe
+D:\Projects\LuminousWMS\Device\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.pdb
+D:\Projects\LuminousWMS\Device\LUMINOUS_COM_SERVER\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\LuminousWMS\Device\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.frmServer.resources
+D:\Projects\LuminousWMS\Device\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.Properties.Resources.resources
+D:\Projects\LuminousWMS\Device\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.csproj.GenerateResource.Cache
+D:\Projects\LuminousWMS\Device\LUMINOUS_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.exe
+D:\Projects\LuminousWMS\Device\LUMINOUS_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.pdb
+D:\Projects\LuminousWMS\Device\LUMINOUS_COM_SERVER\bin\Debug\BCILCommServer.dll
+D:\Projects\LuminousWMS\Device\LUMINOUS_COM_SERVER\bin\Debug\UmsDLL.dll
+E:\Projects\Running Projects\Luminous\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.exe.config
+E:\Projects\Running Projects\Luminous\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.exe
+E:\Projects\Running Projects\Luminous\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.pdb
+E:\Projects\Running Projects\Luminous\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.exe
+E:\Projects\Running Projects\Luminous\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.pdb
+E:\Projects\Running Projects\Luminous\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\bin\Debug\BCILCommServer.dll
+E:\Projects\Running Projects\Luminous\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\bin\Debug\UmsDLL.dll
+E:\Projects\Running Projects\Luminous\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Running Projects\Luminous\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.frmServer.resources
+E:\Projects\Running Projects\Luminous\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.Properties.Resources.resources
+E:\Projects\Running Projects\Luminous\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.csproj.GenerateResource.Cache
+D:\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.exe.config
+D:\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.exe
+D:\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.pdb
+D:\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.csprojResolveAssemblyReference.cache
+D:\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.frmServer.resources
+D:\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.Properties.Resources.resources
+D:\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.csproj.GenerateResource.Cache
+D:\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.exe
+D:\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.pdb
+D:\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\bin\Debug\BCILCommServer.dll
+D:\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\bin\Debug\UmsDLL.dll
+D:\WMS\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.exe.config
+D:\WMS\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.exe
+D:\WMS\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.pdb
+D:\WMS\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.frmServer.resources
+D:\WMS\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.Properties.Resources.resources
+D:\WMS\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.csproj.GenerateResource.Cache
+D:\WMS\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.exe
+D:\WMS\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.pdb
+D:\WMS\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\bin\Debug\BCILCommServer.dll
+D:\WMS\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\bin\Debug\UmsDLL.dll
+D:\WMS\Luminous_WMS\LuminousWMSDevice\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.csprojResolveAssemblyReference.cache
+D:\WMS\Luminous_WMS\Lum WMS Latest\LuminousWMSDevice\LUMINOUS_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.exe.config
+D:\WMS\Luminous_WMS\Lum WMS Latest\LuminousWMSDevice\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.exe
+D:\WMS\Luminous_WMS\Lum WMS Latest\LuminousWMSDevice\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.pdb
+D:\WMS\Luminous_WMS\Lum WMS Latest\LuminousWMSDevice\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.csprojResolveAssemblyReference.cache
+D:\WMS\Luminous_WMS\Lum WMS Latest\LuminousWMSDevice\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.frmServer.resources
+D:\WMS\Luminous_WMS\Lum WMS Latest\LuminousWMSDevice\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.Properties.Resources.resources
+D:\WMS\Luminous_WMS\Lum WMS Latest\LuminousWMSDevice\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.csproj.GenerateResource.Cache
+D:\WMS\Luminous_WMS\Lum WMS Latest\LuminousWMSDevice\LUMINOUS_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.exe
+D:\WMS\Luminous_WMS\Lum WMS Latest\LuminousWMSDevice\LUMINOUS_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.pdb
+D:\WMS\Luminous_WMS\Lum WMS Latest\LuminousWMSDevice\LUMINOUS_COM_SERVER\bin\Debug\BCILCommServer.dll
+D:\WMS\Luminous_WMS\Lum WMS Latest\LuminousWMSDevice\LUMINOUS_COM_SERVER\bin\Debug\UmsDLL.dll
+D:\Projects\NTF\LuminousWMSDevice\LUMINOUS_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.exe.config
+D:\Projects\NTF\LuminousWMSDevice\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.exe
+D:\Projects\NTF\LuminousWMSDevice\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.pdb
+D:\Projects\NTF\LuminousWMSDevice\LUMINOUS_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.exe
+D:\Projects\NTF\LuminousWMSDevice\LUMINOUS_COM_SERVER\bin\Debug\LUMINOUS_COM_SERVER.pdb
+D:\Projects\NTF\LuminousWMSDevice\LUMINOUS_COM_SERVER\bin\Debug\BCILCommServer.dll
+D:\Projects\NTF\LuminousWMSDevice\LUMINOUS_COM_SERVER\bin\Debug\UmsDLL.dll
+D:\Projects\NTF\LuminousWMSDevice\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.csprojResolveAssemblyReference.cache
+D:\Projects\NTF\LuminousWMSDevice\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.frmServer.resources
+D:\Projects\NTF\LuminousWMSDevice\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.Properties.Resources.resources
+D:\Projects\NTF\LuminousWMSDevice\LUMINOUS_COM_SERVER\obj\Debug\LUMINOUS_COM_SERVER.csproj.GenerateResource.Cache
